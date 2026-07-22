@@ -1,0 +1,3 @@
+loss,28.7632
+compile_metrics,0.6400
+roc_auc,0.6390
