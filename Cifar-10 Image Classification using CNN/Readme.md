@@ -60,7 +60,7 @@ first time it runs (requires internet access on that first run).
 - Vehicle/object classes (airplane, automobile, ship, truck) tend to classify more reliably than
   animal classes, since their shapes and backgrounds are usually more visually distinct.
 
- ![image](/training_curves.png) 
+ ![image](training_curves.png) 
 
 ## Conclusion
 
