@@ -53,14 +53,12 @@ dataset with a similar schema so the pipeline still runs end-to-end for demonstr
 
 | Metric | Value |
 |---|---|
-| Accuracy | 0.6750 |
-| Precision | 0.6825 |
-| Recall | 0.6935 |
-| F1-Score | 0.6880 |
+| Accuracy |0.8254 |
+| Precision | 0.7170 |
+| Recall |0.4541 |
+| F1-Score | 0.5560 |
 
-*(Values above come from a run of the pipeline; see the notes on the dataset above — if you run
-this against the real Kaggle file your numbers will differ, and are typically higher since the
-real dataset's relationships are cleaner than this synthetic stand-in.)*
+
 
 **Observations:**
 - Education level and hours worked per week are strong positive predictors of higher income —
