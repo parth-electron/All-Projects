@@ -1,0 +1,5 @@
+accuracy,0.8254
+precision,0.7170
+recall,0.4541
+f1,0.5560
+synthetic,False
