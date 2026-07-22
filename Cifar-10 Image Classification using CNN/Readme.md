@@ -60,6 +60,8 @@ first time it runs (requires internet access on that first run).
 - Vehicle/object classes (airplane, automobile, ship, truck) tend to classify more reliably than
   animal classes, since their shapes and backgrounds are usually more visually distinct.
 
+ ![image](/training_curves.png) 
+
 ## Conclusion
 
 This project built a Convolutional Neural Network to classify CIFAR-10 images into 10 categories
