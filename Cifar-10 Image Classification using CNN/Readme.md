@@ -62,7 +62,7 @@ first time it runs (requires internet access on that first run).
   animal classes, since their shapes and backgrounds are usually more visually distinct.
 
  ![image](training_curves.png) 
-
+ ![image](confusion_matrix.png)
 ## Conclusion
 
 This project built a Convolutional Neural Network to classify CIFAR-10 images into 10 categories
