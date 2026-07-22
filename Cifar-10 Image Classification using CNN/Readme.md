@@ -1,6 +1,6 @@
 # CIFAR-10 Image Classification — Convolutional Neural Network
 
-AI-ML Assignment 4
+
 
 ## Objective
 
@@ -42,17 +42,18 @@ first time it runs (requires internet access on that first run).
    (precision/recall/F1 per class), plotted training/validation accuracy and loss curves, and
    generated a confusion matrix.
 
+
 ## Results
 
 
 | Metric | Value |
 |---|---|
-| Test Accuracy | |
-| Test Loss |  |
+| Test Accuracy | 0.6355 |
+| Test Loss | 0.8010 |
 
 
 
-**Observations (update after running with your actual confusion matrix/curves):**
+**Observations**
 - Visually similar animal classes (e.g., cat/dog, deer/horse) are typically the most commonly
   confused pairs.
 - Watch the gap between training and validation accuracy across epochs — a widening gap signals
