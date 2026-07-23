@@ -1,0 +1,9 @@
+LunarLander-v3 DQN Training Summary
+====================================
+Timestamp: 20260723_070418
+Episodes trained: 381
+Final 100-episode avg reward: 201.79
+Evaluation (greedy) avg score: 238.26
+Evaluation (greedy) std: 18.10
+Evaluation (greedy) max: 278.2
+Evaluation (greedy) min: 209.3
