@@ -1,0 +1,8 @@
+CartPole-v1 DQN Training Summary
+================================
+Timestamp: 20260723_064110
+Episodes trained: 400
+Final 100-episode avg reward: 149.62
+Evaluation (greedy) avg score: 275.40
+Evaluation (greedy) std: 55.20
+Evaluation (greedy) max: 415.0
