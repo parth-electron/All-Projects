@@ -44,6 +44,9 @@ At the end of a run you'll see:
   - `training_curve.png` — the reward plot as an image
   - `summary.txt` — final performance summary
 
+![image](training_curve.png)
+
+-----------------------
 
 ## Key Hyperparameters
 
